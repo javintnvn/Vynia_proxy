@@ -1,2 +1,2 @@
 # Vynia_proxy
-Proxy Vynia
+Proxy Vynia Notion
